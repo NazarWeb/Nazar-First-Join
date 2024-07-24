@@ -4,4 +4,4 @@ Rencana Nazar
 - Menggunakan Metode Simple Additive Weighting
 - Menggunakan kriteria Penghasilan Orang Tua, Jumlah Tanggungan Orang Tua, Absensi dan Nilai Keagamaan
 - Menggunakan database MySQL
-- Menggunakan bahasa PHP
+- Menggunakan bahasa Java
